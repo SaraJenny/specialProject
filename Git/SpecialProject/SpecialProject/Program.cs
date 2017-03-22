@@ -10,7 +10,7 @@ namespace SpecialProject
     {
         static void Main(string[] args)
         {
-            // Message from Sara
+            // Message from Sara ...
         }
     }
 }
